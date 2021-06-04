@@ -15,8 +15,6 @@ float wallis_pi(int n)
  	return pi;
 }
 
-
-
 int main(void) {
   float pi;
   for (int i=0; i<5; i++) {
